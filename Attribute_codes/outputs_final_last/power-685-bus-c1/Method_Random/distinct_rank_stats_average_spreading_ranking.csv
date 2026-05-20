@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+power-685-bus-c1,Method_Random,average_spreading_ranking.csv,490,685,0.7153284671532847

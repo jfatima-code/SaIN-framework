@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+socfb-Caltech36-c1,Method_D_Topsis,node_influence_ranking.csv,758,762,0.994750656167979

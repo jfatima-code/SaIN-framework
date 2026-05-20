@@ -1,0 +1,602 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.10)  11 JAN 2026 14:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./insecta-ant-colony6-c1_JACCARD_ALL_METHODS_pgfplot.tex
+(insecta-ant-colony6-c1_JACCARD_ALL_METHODS_pgfplot.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/standalone\standalone.cls
+Document Class: standalone 2022/10/10 v1.3b Class to compile TeX sub-files stan
+dalone
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/xkeyval\xkeyval.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count186
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count187
+\c@sapage=\count188
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/standalone\standalone.cfg
+File: standalone.cfg 2022/10/10 v1.3b Default configuration file for 'standalon
+e' class
+) (E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+\sa@box=\box51
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgfplots\pgfplots.sty
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplots.revisi
+on.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/frontendlayer\tikz.sty
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/basiclayer\pgf.sty
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/utilities\pgfrcs.sty
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box52
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/utilities\pgfrcs.cod
+e.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/basiclayer\pgfcore.sty
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/systemlayer\pgfsys.sty
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/utilities\pgfkeyslib
+raryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen145
+\pgf@y=\dimen146
+\pgf@xa=\dimen147
+\pgf@ya=\dimen148
+\pgf@xb=\dimen149
+\pgf@yb=\dimen150
+\pgf@xc=\dimen151
+\pgf@yc=\dimen152
+\pgf@xd=\dimen153
+\pgf@yd=\dimen154
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count197
+\c@pgf@countb=\count198
+\c@pgf@countc=\count199
+\c@pgf@countd=\count266
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count267
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/systemlayer\pgfsys-p
+dftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count268
+\pgfsyssoftpath@bigbuffer@items=\count269
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmath.code.te
+x
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathutil.cod
+e.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen155
+\pgfmath@count=\count270
+\pgfmath@box=\box53
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfunction
+s.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfunction
+s.basic.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfunction
+s.trigonometric.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfunction
+s.random.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfunction
+s.comparison.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfunction
+s.base.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfunction
+s.round.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfunction
+s.misc.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfunction
+s.integerarithmetics.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathcalc.cod
+e.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count271
+))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfint.code.tex
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen156
+\pgf@picmaxx=\dimen157
+\pgf@picminy=\dimen158
+\pgf@picmaxy=\dimen159
+\pgf@pathminx=\dimen160
+\pgf@pathmaxx=\dimen161
+\pgf@pathminy=\dimen162
+\pgf@pathmaxy=\dimen163
+\pgf@xx=\dimen164
+\pgf@xy=\dimen165
+\pgf@yx=\dimen166
+\pgf@yy=\dimen167
+\pgf@zx=\dimen168
+\pgf@zy=\dimen169
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen170
+\pgf@path@lasty=\dimen171
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen172
+\pgf@shorten@start@additional=\dimen173
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count272
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen174
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen175
+\pgf@pt@y=\dimen176
+\pgf@pt@temp=\dimen177
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen178
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen179
+\pgf@sys@shading@range@num=\count273
+\pgf@shadingcount=\count274
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box57
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/basiclayer\pgfcorerd
+f.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box58
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen180
+\pgf@nodesepend=\dimen181
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/utilities\pgffor.sty
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/utilities\pgfkeys.sty
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/utilities\pgfkeys.co
+de.tex))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/pgf/math\pgfmath.sty
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/math\pgfmath.code.te
+x))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/utilities\pgffor.cod
+e.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen182
+\pgffor@skip=\dimen183
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/frontendlayer/tikz\t
+ikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count275
+\pgfplotmarksize=\dimen184
+)
+\tikz@lastx=\dimen185
+\tikz@lasty=\dimen186
+\tikz@lastxsaved=\dimen187
+\tikz@lastysaved=\dimen188
+\tikz@lastmovetox=\dimen189
+\tikz@lastmovetoy=\dimen190
+\tikzleveldistance=\dimen191
+\tikzsiblingdistance=\dimen192
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count276
+\tikznumberofchildren=\count277
+\tikznumberofcurrentchild=\count278
+\tikz@fig@count=\count279
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count280
+\pgfmatrixcurrentcolumn=\count281
+\pgf@matrix@numberofcolumns=\count282
+)
+\tikz@expandcount=\count283
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplots.code.t
+ex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplotscore.co
+de.tex
+\t@pgfplots@toka=\toks31
+\t@pgfplots@tokb=\toks32
+\t@pgfplots@tokc=\toks33
+\pgfplots@tmpa=\dimen193
+\c@pgfplots@coordindex=\count284
+\c@pgfplots@scanlineindex=\count285
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/sys\pgfplotssys
+generic.code.tex))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/libs\pgfplotsli
+brary.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/oldpgfcompatib\
+pgfplotsoldpgfsupp_loader.code.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/libraries\pgflibrary
+fpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/oldpgfcompatib\
+pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/util\pgfplotsut
+il.code.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/liststructure\p
+gfplotsliststructure.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/liststructure\p
+gfplotsliststructureext.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/liststructure\p
+gfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count286
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/liststructure\p
+gfplotsmatrix.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/numtable\pgfplo
+tstableshared.code.tex
+\c@pgfplotstable@counta=\count287
+\t@pgfplotstable@a=\toks37
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/liststructure\p
+gfplotsdeque.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/util\pgfplotsbi
+nary.code.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/util\pgfplotsbi
+nary.data.code.tex))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/util\pgfplotsut
+il.verb.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/libs\pgflibrary
+pgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count288
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/sys\pgflibraryp
+gfplots.surfshading.pgfsys-pdftex.def)))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/util\pgfplotsco
+lormap.code.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/util\pgfplotsco
+lor.code.tex))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplotsstacked
+plots.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplotsplothan
+dlers.code.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplotsmeshplo
+thandler.code.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplotsmeshplo
+timage.code.tex)))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplots.scalin
+g.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplotscoordpr
+ocessing.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplots.errorb
+ars.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplots.marker
+s.code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplotsticks.c
+ode.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots\pgfplots.paths.
+code.tex)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarydecorations.code.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/modules\pgfmoduledec
+orations.code.tex
+\pgfdecoratedcompleteddistance=\dimen194
+\pgfdecoratedremainingdistance=\dimen195
+\pgfdecoratedinputsegmentcompleteddistance=\dimen196
+\pgfdecoratedinputsegmentremainingdistance=\dimen197
+\pgf@decorate@distancetomove=\dimen198
+\pgf@decorate@repeatstate=\count289
+\pgfdecorationsegmentamplitude=\dimen199
+\pgfdecorationsegmentlength=\dimen256
+)
+\tikz@lib@dec@box=\box63
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarydecorations.pathmorphing.code.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/libraries/decoration
+s\pgflibrarydecorations.pathmorphing.code.tex))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarydecorations.pathreplacing.code.tex
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/libraries/decoration
+s\pgflibrarydecorations.pathreplacing.code.tex))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgfplots/libs\tikzlibrar
+ypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count290
+\pgfplots@xmin@reg=\dimen257
+\pgfplots@xmax@reg=\dimen258
+\pgfplots@ymin@reg=\dimen259
+\pgfplots@ymax@reg=\dimen260
+\pgfplots@zmin@reg=\dimen261
+\pgfplots@zmax@reg=\dimen262
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/generic/pgf/libraries\pgflibrary
+plotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/l3backend\l3backend-pdftex
+.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count291
+\l__pdf_internal_box=\box64
+) (insecta-ant-colony6-c1_JACCARD_ALL_METHODS_pgfplot.aux)
+\openout1 = `insecta-ant-colony6-c1_JACCARD_ALL_METHODS_pgfplot.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count292
+\scratchdimen=\dimen263
+\scratchbox=\box65
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen264
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks39
+)
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/epstopdf-pkg\epstopdf-base
+.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(E:\textstudio\texstudio\TexTablet\mik_tex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 70.
+[1
+
+{C:/Users/Javaria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(insecta-ant-colony6-c1_JACCARD_ALL_METHODS_pgfplot.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 22716 strings out of 474587
+ 612427 string characters out of 5747102
+ 1957558 words of memory out of 5000000
+ 44573 multiletter control sequences out of 15000+600000
+ 558368 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,18n,101p,773b,2233s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<E:/textstudio/texstudio/TexTablet/mik_tex/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb><E:/textstudio/texstudio/TexTablet/mik_tex/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><E:/textstudio/texstudio/TexTablet/mik_tex/fonts/type1/public/amsf
+onts/cm/cmr9.pfb>
+Output written on insecta-ant-colony6-c1_JACCARD_ALL_METHODS_pgfplot.pdf (1 pag
+e, 47511 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

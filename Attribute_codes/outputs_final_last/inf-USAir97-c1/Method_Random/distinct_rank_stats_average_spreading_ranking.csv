@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+inf-USAir97-c1,Method_Random,average_spreading_ranking.csv,187,332,0.5632530120481928

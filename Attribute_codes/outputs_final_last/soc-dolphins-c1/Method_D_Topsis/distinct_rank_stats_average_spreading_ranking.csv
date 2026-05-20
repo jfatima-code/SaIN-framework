@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+soc-dolphins-c1,Method_D_Topsis,average_spreading_ranking.csv,59,62,0.9516129032258065

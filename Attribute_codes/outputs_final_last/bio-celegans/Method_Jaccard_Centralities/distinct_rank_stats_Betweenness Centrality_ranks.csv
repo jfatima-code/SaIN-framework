@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+bio-celegans,Method_Jaccard_Centralities,Betweenness Centrality_ranks.csv,297,453,0.6556291390728477

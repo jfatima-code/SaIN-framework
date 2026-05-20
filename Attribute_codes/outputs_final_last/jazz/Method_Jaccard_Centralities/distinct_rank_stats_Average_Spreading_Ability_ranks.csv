@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+jazz,Method_Jaccard_Centralities,Average_Spreading_Ability_ranks.csv,181,198,0.9141414141414141

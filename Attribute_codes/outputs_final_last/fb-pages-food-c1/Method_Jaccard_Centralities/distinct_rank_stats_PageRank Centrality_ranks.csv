@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+fb-pages-food-c1,Method_Jaccard_Centralities,PageRank Centrality_ranks.csv,561,620,0.9048387096774193

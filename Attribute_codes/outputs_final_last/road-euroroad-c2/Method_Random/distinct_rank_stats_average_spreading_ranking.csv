@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+road-euroroad-c2,Method_Random,average_spreading_ranking.csv,835,1039,0.8036573628488932
