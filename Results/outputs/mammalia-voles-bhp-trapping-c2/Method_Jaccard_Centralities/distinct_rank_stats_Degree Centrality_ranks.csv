@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+mammalia-voles-bhp-trapping-c2,Method_Jaccard_Centralities,Degree Centrality_ranks.csv,35,1613,0.02169869807811531

@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+socfb-Reed98-c1,Method_Jaccard_Centralities,PageRank Centrality_ranks.csv,954,962,0.9916839916839917

@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+power-494-bus-c1,Method_WSM,node_influence_ranking_wsm.csv,441,494,0.8927125506072875

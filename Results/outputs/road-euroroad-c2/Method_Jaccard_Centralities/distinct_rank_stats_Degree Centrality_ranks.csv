@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+road-euroroad-c2,Method_Jaccard_Centralities,Degree Centrality_ranks.csv,9,1039,0.008662175168431183

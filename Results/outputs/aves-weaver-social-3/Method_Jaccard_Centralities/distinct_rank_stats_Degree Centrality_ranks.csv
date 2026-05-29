@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+aves-weaver-social-3,Method_Jaccard_Centralities,Degree Centrality_ranks.csv,13,42,0.30952380952380953

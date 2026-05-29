@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+NCI1-g2455-c1,Method_Jaccard_Centralities,Closeness Centrality_ranks.csv,80,90,0.8888888888888888

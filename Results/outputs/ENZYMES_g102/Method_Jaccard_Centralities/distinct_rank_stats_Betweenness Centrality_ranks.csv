@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+ENZYMES_g102,Method_Jaccard_Centralities,Betweenness Centrality_ranks.csv,36,42,0.8571428571428571

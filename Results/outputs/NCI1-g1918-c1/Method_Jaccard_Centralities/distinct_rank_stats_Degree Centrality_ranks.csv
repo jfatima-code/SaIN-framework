@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+NCI1-g1918-c1,Method_Jaccard_Centralities,Degree Centrality_ranks.csv,4,83,0.04819277108433735

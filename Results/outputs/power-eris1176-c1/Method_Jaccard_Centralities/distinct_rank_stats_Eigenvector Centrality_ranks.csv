@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+power-eris1176-c1,Method_Jaccard_Centralities,Eigenvector Centrality_ranks.csv,279,1174,0.23764906303236796

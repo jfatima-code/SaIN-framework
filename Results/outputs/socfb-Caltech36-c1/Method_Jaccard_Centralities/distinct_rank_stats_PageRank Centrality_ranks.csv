@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+socfb-Caltech36-c1,Method_Jaccard_Centralities,PageRank Centrality_ranks.csv,759,762,0.9960629921259843

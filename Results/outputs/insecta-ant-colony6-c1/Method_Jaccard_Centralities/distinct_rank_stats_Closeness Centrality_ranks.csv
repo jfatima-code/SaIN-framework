@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+insecta-ant-colony6-c1,Method_Jaccard_Centralities,Closeness Centrality_ranks.csv,15,164,0.09146341463414634

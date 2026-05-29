@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+econ-mbeacxc-c1,Method_Jaccard_Centralities,Betweenness Centrality_ranks.csv,478,487,0.9815195071868583

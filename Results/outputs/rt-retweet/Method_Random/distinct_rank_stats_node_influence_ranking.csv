@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+rt-retweet,Method_Random,node_influence_ranking.csv,74,96,0.7708333333333334
