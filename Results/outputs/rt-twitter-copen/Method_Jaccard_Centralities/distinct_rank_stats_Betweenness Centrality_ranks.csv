@@ -1,2 +1,0 @@
-network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
-rt-twitter-copen,Method_Jaccard_Centralities,Betweenness Centrality_ranks.csv,236,761,0.31011826544021026

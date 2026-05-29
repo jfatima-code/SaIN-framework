@@ -1,2 +1,0 @@
-network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
-inf-USAir97-c1,Method_Jaccard_Centralities,PageRank Centrality_ranks.csv,276,332,0.8313253012048193

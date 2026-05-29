@@ -1,2 +1,0 @@
-network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
-soc-wiki-Vote-c1,Method_Jaccard_Centralities,Betweenness Centrality_ranks.csv,646,889,0.7266591676040495

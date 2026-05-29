@@ -1,2 +1,0 @@
-network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
-econ-mahindas-c1,Method_Jaccard_Centralities,Eigenvector Centrality_ranks.csv,1205,1258,0.9578696343402225
