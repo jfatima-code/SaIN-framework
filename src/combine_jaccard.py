@@ -8,7 +8,7 @@ Created on Fri Nov 28 16:16:57 2025
 import os
 import pandas as pd
 
-BASE_OUTPUTS_DIR = r"E:\New folder\Attributes\all\feature\Attribute_Paper\outputs_final_last"
+BASE_OUTPUTS_DIR = r"....\outputs"
 
 def load_any(path):
     ext = os.path.splitext(path)[1].lower()

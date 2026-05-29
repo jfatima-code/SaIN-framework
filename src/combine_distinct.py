@@ -7,7 +7,7 @@ Created on Fri Nov 28 18:21:43 2025
 import os
 import pandas as pd
 
-BASE_OUTPUTS_DIR = r"E:\New folder\Attributes\all\feature\Attribute_Paper\outputs_final"
+BASE_OUTPUTS_DIR = r".......\outputs"
 
 
 def load_any(path):

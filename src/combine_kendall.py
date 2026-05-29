@@ -11,7 +11,7 @@ import pandas as pd
 # ==========================
 # CONFIG
 # ==========================
-BASE_OUTPUTS_DIR = r"E:\New folder\Attributes\all\feature\Attribute_Paper\outputs_final_last"
+BASE_OUTPUTS_DIR = r"...........\outputs"
 
 
 # ==========================

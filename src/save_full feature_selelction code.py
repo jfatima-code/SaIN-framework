@@ -74,7 +74,7 @@ from sklearn.decomposition import PCA
 # ========= CONFIG =========
 INPUT_DIR = r"./"                      # folder with your CSVs
 FILE_GLOB = "graph_attributes_*_check.csv"
-OUTPUT_ROOT = r"./outputs_final_last"
+OUTPUT_ROOT = r"./outputs"
 NUM_FEATURES = 25
 # =========================
 def reset_seed(seed=42):

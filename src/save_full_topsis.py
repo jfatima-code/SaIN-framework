@@ -25,7 +25,7 @@ from sklearn.preprocessing import MinMaxScaler
 # ========= CONFIG =========
 INPUT_DIR   = r"....\feature\Attribute_codes"     # .gr + graph_attributes_*_check.csv
 #OUTPUT_ROOT = os.path.join(INPUT_DIR, "outputs_final_last")                          # stage-1 outputs live here
-OUTPUT_ROOT = os.path.join(INPUT_DIR, "outputs_final_last") 
+OUTPUT_ROOT = os.path.join(INPUT_DIR, "outputs") 
 METHOD_TO_SELECTED_XLSX = {
     "laplacian": ["selected_features_lap.xlsx"],
     "mcfs":      ["selected_features_mcfs.xlsx"],

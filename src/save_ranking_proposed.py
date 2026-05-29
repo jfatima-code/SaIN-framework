@@ -24,7 +24,7 @@ import networkx as nx
 #INPUT_DIR   = r"....\Attribute_codes"
 #OUTPUT_ROOT = os.path.join(INPUT_DIR, "output_final_last")
 INPUT_DIR   = r"....\Attribute_codes"
-OUTPUT_ROOT = os.path.join(INPUT_DIR, "outputs_final_last")
+OUTPUT_ROOT = os.path.join(INPUT_DIR, "outputs")
 METHODS = ["laplacian", "mcfs", "spec", "pca", "udfs"]
 
 INFL_FILE_BY_METHOD = {

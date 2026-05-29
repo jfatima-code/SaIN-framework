@@ -22,7 +22,7 @@ from scipy.stats import kendalltau
 # CONFIGURATION
 # ==========================
 
-BASE_OUTPUTS_DIR = r"...\Attribute_codes\outputs_final_last"
+BASE_OUTPUTS_DIR = r"...outputs_final_last"
 ATTR_DIR         = r"....\Attribute_codes"
 
 # Method subfolders inside each network folder

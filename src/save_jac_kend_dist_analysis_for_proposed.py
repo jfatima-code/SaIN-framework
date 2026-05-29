@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 # CONFIGURATION
 # ==========================
 
-BASE_OUTPUTS_DIR = r"......\Attribute_codes\outputs_final_last"
+BASE_OUTPUTS_DIR = r".........\outputs"
 GR_ROOT_DIR = os.path.dirname(BASE_OUTPUTS_DIR)
 
 GAMMA = 1.0
