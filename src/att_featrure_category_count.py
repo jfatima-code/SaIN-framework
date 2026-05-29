@@ -11,9 +11,9 @@ import pandas as pd
 # ================== PATHS ==================
 COMBINED_EXCEL = r"All_Networks_Features.xlsx"
 
-CATEGORY_FILE = r"feature_classes_as_per_code_25_01_2026.xlsx"
+CATEGORY_FILE = r"feature_classes_as_per_code.xlsx"
 
-OUTPUT_EXCEL = r"All_Networks_Category_Counts_9_4_26.xlsx"
+OUTPUT_EXCEL = r"All_Networks_Category_Counts.xlsx"
 
 METHODS = ["laplacian", "mcfs", "spec", "pca", "udfs"]
 # ==========================================

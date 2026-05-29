@@ -9,7 +9,7 @@ from collections import defaultdict
 
 # ================= PATHS =================
 MAJORITY_FILE = r".....\All_Networks_Features_with_majority.xlsx"
-NETWORK_CLASS_FILE = r".....\network_classes_26_01_2026.xlsx"
+NETWORK_CLASS_FILE = r".....\network_classes.xlsx"
 
 OUTPUT_FILE = r".........\Class_Wise_Intersection_SelectedBy3.xlsx"
 # ========================================
