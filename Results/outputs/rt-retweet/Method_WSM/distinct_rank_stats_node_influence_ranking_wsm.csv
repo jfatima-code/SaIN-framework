@@ -1,2 +1,0 @@
-network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
-rt-retweet,Method_WSM,node_influence_ranking_wsm.csv,73,96,0.7604166666666666

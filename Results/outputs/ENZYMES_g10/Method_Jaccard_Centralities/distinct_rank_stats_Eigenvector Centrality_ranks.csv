@@ -1,2 +1,0 @@
-network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
-ENZYMES_g10,Method_Jaccard_Centralities,Eigenvector Centrality_ranks.csv,24,32,0.75
