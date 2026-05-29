@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+socfb-Caltech36-c1,Method_Jaccard_Centralities,Average_Spreading_Ability_ranks.csv,555,762,0.7283464566929134

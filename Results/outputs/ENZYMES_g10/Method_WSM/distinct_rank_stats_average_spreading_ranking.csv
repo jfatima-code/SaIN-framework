@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+ENZYMES_g10,Method_WSM,average_spreading_ranking.csv,29,32,0.90625

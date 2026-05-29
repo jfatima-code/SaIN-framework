@@ -1,0 +1,51 @@
+feature,rank
+Laplacian Centrality,1
+Local-Global Centrality,2
+Betweenness Centrality,3
+Degree Centrality,4
+Global Relative Change in Avg Degree,5
+DNC Scores,6
+Node H-Index,7
+Closeness Centrality,8
+GSM,9
+Second order centrality,10
+Leverage Centrality,11
+PageRank Centrality,12
+Eccentricity Centrality,13
+Isolating Centrality,14
+Global Relative Change in Avg Clustering,15
+Clustering Coefficient,16
+Constraint Coefficients,17
+Centrality Values,18
+K-Shell Value,19
+P Value,20
+PE Values,21
+Gravity Model Centrality,22
+Volume Centrality,23
+Coreness Centrality,24
+EIGSM Values,25
+EHCC Value,26
+MDD Value,27
+HCC Value,28
+Density Centrality,29
+Societal Capital Scores,30
+CLC Values,31
+GGC Values,32
+Gravity Index Centrality,33
+I-GSM Values,34
+Extended Improved Gravity Index Values,35
+Semi local centrality,36
+Improved Gravity Index Values,37
+DIL Centrality,38
+Extended Degree,39
+Extended Coreness,40
+H-GSM_1,41
+Clustered Local Degree,42
+GIN Values,43
+Local Gravity Model Centrality,44
+Eigenvector Centrality,45
+MCGM Values,46
+HVGc Index,47
+LGC Scores,48
+H Values,49
+Subgraph centrality,50

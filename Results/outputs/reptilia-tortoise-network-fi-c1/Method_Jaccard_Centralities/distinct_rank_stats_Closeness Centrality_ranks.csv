@@ -1,0 +1,2 @@
+network,method_folder,ranking_file,distinct_ranks,num_nodes,ratio
+reptilia-tortoise-network-fi-c1,Method_Jaccard_Centralities,Closeness Centrality_ranks.csv,401,496,0.8084677419354839
